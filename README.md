@@ -72,6 +72,10 @@ If you fork or share Kepler, keep the `LICENSE` file (and this notice) with it.
 
 Project by [BMills](https://github.com/BillyMillsGitHub). Implementation assistance from Grok.
 
+## Contributing
+
+`main` is stable. Open a branch (`feat/…`, `fix/…`, `docs/…`, `chore/…`), then a pull request into `main`. See [CONTRIBUTING.md](CONTRIBUTING.md).
+
 ## Stack
 
 React, Canvas 2D, fixed-timestep leapfrog gravity, client-only.
