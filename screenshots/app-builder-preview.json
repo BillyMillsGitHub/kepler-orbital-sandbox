@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Kepler",
+      "hasCanvas": true,
+      "bodyTextLen": 274,
+      "bodyTextHash": "565a454761706cac305d36f34236b719e43eac62acf1eff57566a85653fc2711",
+      "bodyTextPrefix": "Kepler Orbital sandbox 7 bodies Drag to fling a planet. Drag an ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Kepler",
+      "hasCanvas": true,
+      "bodyTextLen": 228,
+      "bodyTextHash": "3ae1e360a6984d3dfd3e11f6ed9d89514ccb7e1b073bff53c5c083ec5e53eaeb",
+      "bodyTextPrefix": "Kepler Orbital sandbox 7 bodies Drag to fling a planet. Drag an ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
